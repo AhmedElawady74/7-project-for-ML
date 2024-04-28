@@ -1,5 +1,7 @@
 # 7-project-for-ML
 
+THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
+
 The project is focused on building a machine learning model to predict whether a patient has diabetes or not based on various health-related features. Here's a summary of the project:
 
 1- Data Exploration: The project begins with loading the dataset and exploring its structure, including the features and target variable. Visualizations such as histograms and pairplots are used to understand the distribution and relationships between different variables.
